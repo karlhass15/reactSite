@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20f25fb9-5bf6-427f-bdf4-6b796adb5d61" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/usweb/npm-shrinkwrap.json" beforeDir="false" afterPath="$PROJECT_DIR$/usweb/npm-shrinkwrap.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usweb/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/usweb/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usweb/src/inc/_favicons.html" beforeDir="false" afterPath="$PROJECT_DIR$/usweb/src/inc/_favicons.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usweb/boilerplate/tasks/build.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usweb/boilerplate/tasks/images.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usweb/boilerplate/tasks/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1065">
+              <caret line="89" column="11" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usweb/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1725">
+              <caret line="115" column="14" selection-start-line="115" selection-start-column="14" selection-end-line="115" selection-end-column="14" />
+              <folding>
+                <marker date="1516140981000" expanded="false" signature="8804:8875" ph="..." />
+                <marker date="1516140981000" expanded="true" signature="8876:9022" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usweb/src/scripts/components/AboutDiamonds/SectionFourC.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="47" column="70" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="70" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#53#105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usweb/src/scripts/containers/AboutDiamonds.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usweb/src/scripts/components/AboutDiamonds/SectionFiveC.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#53#105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/usweb/src/scripts/components/Router.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usweb/src/scripts/Root.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>shop now</find>
+      <find>Elements</find>
+      <find>Target</find>
+      <find>Animated</find>
+      <find>Body-OurStory</find>
+      <find>margin-left</find>
+      <find>gif</find>
+      <find>thankyou</find>
+      <find>3000</find>
+      <find>react-text</find>
+      <find>hours</find>
+      <find>gulp.task</find>
+      <find>minifyJsonData</find>
+      <find>require(&quot;babel-register&quot;);</find>
+      <find>build</find>
+      <find>oneskyGET</find>
+      <find>babel/register</find>
+      <find>env</find>
+      <find>npm run dev</find>
+      <find>Home</find>
+      <find>config</find>
+      <find>getConfig</find>
+      <find>Vinyl</find>
+      <find>gulp-i</find>
+      <find>gulp-util</find>
+      <find>gutil.noop</find>
+      <find>beeper</find>
+      <find>noop</find>
+      <find>localhost:</find>
+      <find>file.pipe</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/usweb/ansible</dir>
+      <dir>$PROJECT_DIR$/usweb/src/styles</dir>
+      <dir>$PROJECT_DIR$/usweb/src/scripts/actions</dir>
+      <dir>$PROJECT_DIR$/usweb/src/scripts/components/Products</dir>
+      <dir>$PROJECT_DIR$/usweb/src/styles/modules</dir>
+      <dir>$PROJECT_DIR$/usweb/src/scripts</dir>
+      <dir>$PROJECT_DIR$/usweb/src</dir>
+      <dir>$PROJECT_DIR$/usweb/src/scripts/utils</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/usweb</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/usweb" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/usweb" value="redesign-spence" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/usweb/.gitignore" />
+        <option value="$PROJECT_DIR$/usweb/src/styles/modules/Products/_Collections.scss" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/components/Products/SectionCollections.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/components/AboutUs/SectionMinedDiamonds.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/styles/modules/AboutUs/_MinedDiamonds.scss" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/containers/AboutUs.jsx" />
+        <option value="$PROJECT_DIR$/usweb/dist/styles/main.css" />
+        <option value="$PROJECT_DIR$/usweb/src/styles/modules/AboutDiamonds/_Shape.scss" />
+        <option value="$PROJECT_DIR$/usweb/src/styles/modules/AboutDiamonds/_FiveC.scss" />
+        <option value="$PROJECT_DIR$/usweb/src/styles/modules/Home/_HomeContent.scss" />
+        <option value="$PROJECT_DIR$/usweb/src/styles/_layout.scss" />
+        <option value="$PROJECT_DIR$/usweb/src/styles/_sprite.scss" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/containers/Shop.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/actions/preload.js" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/components/Shop/SectionBracelets.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/components/Shop/SectionEarrings.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/components/Shop/SectionNecklaces.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/components/Shop/SectionRings.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/inc/_favicons.html" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/components/SubNav.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/containers/Home.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/components/Router.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/sitemap.xml" />
+        <option value="$PROJECT_DIR$/usweb/src/styles/modules/Shop/_Bridal.scss" />
+        <option value="$PROJECT_DIR$/usweb/src/index.html" />
+        <option value="$PROJECT_DIR$/usweb/dist/index.html" />
+        <option value="$PROJECT_DIR$/usweb/src/styles/modules/_MainHeader.scss" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/components/MainHeader.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/containers/Products.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/components/Home/HomePage.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/styles/modules/_MainNav.scss" />
+        <option value="$PROJECT_DIR$/usweb/src/styles/modules/Home/_HomePage.scss" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/components/MainNav.jsx" />
+        <option value="$PROJECT_DIR$/usweb/dist/static/data.json" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/components/AboutUs/SectionOurStory.jsx" />
+        <option value="$PROJECT_DIR$/usweb/src/styles/modules/AboutUs/_OurStory.scss" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/components/Products/SectionBoho.jsx" />
+        <option value="$PROJECT_DIR$/usweb/dist/static/en-US.json" />
+        <option value="$PROJECT_DIR$/usweb/npm-shrinkwrap.json" />
+        <option value="$PROJECT_DIR$/../../conf/apache/extra/httpd-vhosts.conf" />
+        <option value="$PROJECT_DIR$/usweb/src/scripts/reducers/navigation.js" />
+        <option value="$PROJECT_DIR$/usweb/gulpfile.babel.js" />
+        <option value="$PROJECT_DIR$/usweb/README.md" />
+        <option value="$PROJECT_DIR$/usweb/boilerplate/tasks/bumpVersion.js" />
+        <option value="$PROJECT_DIR$/usweb/boilerplate/tasks/index.js" />
+        <option value="$PROJECT_DIR$/usweb/boilerplate/config.js" />
+        <option value="$PROJECT_DIR$/usweb/boilerplate/tasks/build.js" />
+        <option value="$PROJECT_DIR$/usweb/boilerplate/tasks/styles.js" />
+        <option value="$PROJECT_DIR$/usweb/boilerplate/utils/handleErrors.js" />
+        <option value="$PROJECT_DIR$/usweb/boilerplate/tasks/scripts.js" />
+        <option value="$PROJECT_DIR$/usweb/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="46" />
+    <option name="y" value="23" />
+    <option name="width" value="1338" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="diamonds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diamonds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diamonds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diamonds" type="462c0819:PsiDirectoryNode" />
+              <item name="usweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diamonds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diamonds" type="462c0819:PsiDirectoryNode" />
+              <item name="usweb" type="462c0819:PsiDirectoryNode" />
+              <item name="cmd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diamonds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diamonds" type="462c0819:PsiDirectoryNode" />
+              <item name="usweb" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diamonds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diamonds" type="462c0819:PsiDirectoryNode" />
+              <item name="usweb" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diamonds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diamonds" type="462c0819:PsiDirectoryNode" />
+              <item name="usweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diamonds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diamonds" type="462c0819:PsiDirectoryNode" />
+              <item name="usweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diamonds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diamonds" type="462c0819:PsiDirectoryNode" />
+              <item name="usweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/usweb/node_modules/eslint" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/usweb/src/styles/modules/Shop" />
+      <recent name="$PROJECT_DIR$/usweb/src/scripts/components/Products" />
+      <recent name="$PROJECT_DIR$/usweb/src/scripts/components/Shop" />
+      <recent name="$PROJECT_DIR$/usweb/src/scripts/containers" />
+      <recent name="$PROJECT_DIR$/usweb/dist/images/products/collections" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/usweb/src/images/about-us/our-story" />
+      <recent name="$PROJECT_DIR$/usweb/src/images/products/boho" />
+      <recent name="$PROJECT_DIR$/usweb/src/images/home-page" />
+      <recent name="$PROJECT_DIR$/usweb/dist/images/products" />
+      <recent name="$PROJECT_DIR$/usweb/src/images/products/collections" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20f25fb9-5bf6-427f-bdf4-6b796adb5d61" name="Default" comment="" />
+      <created>1500390221783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500390221783</updated>
+      <workItem from="1500390223091" duration="36288000" />
+      <workItem from="1500572308215" duration="17404000" />
+      <workItem from="1500905568359" duration="117000" />
+      <workItem from="1500906667622" duration="14328000" />
+      <workItem from="1501000432391" duration="21621000" />
+      <workItem from="1501516717813" duration="1002000" />
+      <workItem from="1501712893724" duration="10523000" />
+      <workItem from="1502287633464" duration="8094000" />
+      <workItem from="1502376669388" duration="4595000" />
+      <workItem from="1506373554616" duration="5009000" />
+      <workItem from="1506443289148" duration="7776000" />
+      <workItem from="1507650792277" duration="17515000" />
+      <workItem from="1507828463951" duration="6663000" />
+      <workItem from="1507915073074" duration="47190000" />
+      <workItem from="1508351611552" duration="9965000" />
+      <workItem from="1508441129599" duration="928000" />
+      <workItem from="1508508674326" duration="18012000" />
+      <workItem from="1508767248172" duration="68998000" />
+      <workItem from="1509400183665" duration="10551000" />
+      <workItem from="1509479143025" duration="780000" />
+      <workItem from="1509722523404" duration="12562000" />
+      <workItem from="1510168468266" duration="1091000" />
+      <workItem from="1510248184032" duration="1477000" />
+      <workItem from="1510765541676" duration="8137000" />
+      <workItem from="1511192593483" duration="2878000" />
+      <workItem from="1511304202303" duration="2638000" />
+      <workItem from="1513722849638" duration="710000" />
+      <workItem from="1514317380742" duration="139000" />
+      <workItem from="1514317576698" duration="5826000" />
+      <workItem from="1514388718096" duration="23004000" />
+      <workItem from="1514923683816" duration="1248000" />
+      <workItem from="1515014729285" duration="6738000" />
+      <workItem from="1515450113940" duration="1392000" />
+      <workItem from="1515688594274" duration="6143000" />
+      <workItem from="1515701282126" duration="528000" />
+      <workItem from="1515701825274" duration="7000" />
+      <workItem from="1515712005626" duration="7000" />
+      <workItem from="1515771635962" duration="16578000" />
+      <workItem from="1516220589032" duration="1627000" />
+      <workItem from="1516290573052" duration="539000" />
+      <workItem from="1516723982952" duration="2957000" />
+      <workItem from="1516820322515" duration="3202000" />
+      <workItem from="1518021236820" duration="2358000" />
+      <workItem from="1518204609456" duration="2473000" />
+      <workItem from="1518207774312" duration="64000" />
+      <workItem from="1518207926955" duration="1866000" />
+      <workItem from="1518554605483" duration="612000" />
+      <workItem from="1519327856672" duration="688000" />
+      <workItem from="1520529650627" duration="1111000" />
+      <workItem from="1520548555923" duration="579000" />
+      <workItem from="1533914645456" duration="1958000" />
+      <workItem from="1534348275948" duration="1010000" />
+      <workItem from="1536611978730" duration="2292000" />
+      <workItem from="1546983789259" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="422093000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="23" width="1338" height="877" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33487654" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49744573" weight="0.32664436" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32840237" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49229923" weight="0.3267544" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.7253219" visible="true" weight="0.1656051" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2746781" side_tool="true" weight="0.2820513" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32763532" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22818312" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49744573" weight="0.32664436" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.2746781" side_tool="true" visible="true" weight="0.2820513" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49229923" weight="0.3267544" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.7253219" visible="true" weight="0.2820513" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/usweb/src/styles/modules/Home/_HomePage.scss" />
+    <entry file="file://$PROJECT_DIR$/usweb/dist/static/data.json" />
+    <entry file="file://$PROJECT_DIR$/usweb/src/styles/modules/_MainNav.scss" />
+    <entry file="file://$PROJECT_DIR$/usweb/src/styles/modules/AboutUs/_OurStory.scss" />
+    <entry file="file://$PROJECT_DIR$/usweb/node_modules/babel-register/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/usweb/src/scripts/components/Products/SectionBoho.jsx" />
+    <entry file="file://$PROJECT_DIR$/usweb/src/scripts/components/AboutUs/SectionOurStory.jsx" />
+    <entry file="file://$PROJECT_DIR$/usweb/src/scripts/components/Home/HomePage.jsx" />
+    <entry file="file://$PROJECT_DIR$/usweb/node_modules/abbrev/abbrev.js" />
+    <entry file="file://$PROJECT_DIR$/usweb/src/scripts/components/MainNav.jsx" />
+    <entry file="file://$PROJECT_DIR$/usweb/node_modules/babel-core/register.js" />
+    <entry file="file://$PROJECT_DIR$/usweb/dist/static/en-US.json" />
+    <entry file="file://$PROJECT_DIR$/usweb/src/styles/_config.scss" />
+    <entry file="file://$PROJECT_DIR$/usweb/node_modules/babel-register/README.md" />
+    <entry file="file://$PROJECT_DIR$/usweb/node_modules/react-modal/dist/react-modal.js" />
+    <entry file="file://$USER_HOME$/Downloads/package.json" />
+    <entry file="file://$PROJECT_DIR$/../../conf/apache/extra/httpd-vhosts.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/src/scripts/reducers/navigation.js" />
+    <entry file="file://$PROJECT_DIR$/npm-debug.log" />
+    <entry file="file://$PROJECT_DIR$/usweb/node_modules/babel-core/package.json" />
+    <entry file="file://$PROJECT_DIR$/usweb/node_modules/react/package.json" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/usweb/node_modules/gulp-mocha/readme.md" />
+    <entry file="file://$PROJECT_DIR$/usweb/boilerplate/tasks/watch.js" />
+    <entry file="file://$PROJECT_DIR$/usweb/npm-shrinkwrap.json" />
+    <entry file="file://$PROJECT_DIR$/usweb/dist/scripts/vendor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10195" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/boilerplate/tasks/markup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/gulpfile.babel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/boilerplate/tasks/bumpVersion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/config/run_production">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/boilerplate/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/boilerplate/tasks/styles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/boilerplate/utils/handleErrors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1939">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/node_modules/xmlbuilder/lib/XMLDocumentCB.js" />
+    <entry file="file://$PROJECT_DIR$/usweb/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/boilerplate/tasks/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/node_modules/browserify/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" column="8" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/src/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/src/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/boilerplate/tasks/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/boilerplate/tasks/images.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/boilerplate/tasks/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="89" column="11" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="115" column="14" selection-start-line="115" selection-start-column="14" selection-end-line="115" selection-end-column="14" />
+          <folding>
+            <marker date="1516140981000" expanded="false" signature="8804:8875" ph="..." />
+            <marker date="1516140981000" expanded="true" signature="8876:9022" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/src/scripts/components/AboutDiamonds/SectionFourC.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="47" column="70" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="70" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#53#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/src/scripts/containers/AboutDiamonds.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/src/scripts/Root.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/src/scripts/components/AboutDiamonds/SectionFiveC.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#53#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usweb/src/scripts/components/Router.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
